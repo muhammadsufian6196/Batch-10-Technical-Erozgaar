@@ -1,0 +1,30 @@
+p{
+	font-family: helvetica;
+	font-size: 20px;
+
+
+}
+#p1{
+	color: red ;
+	text-shadow: 1px 1px 1px blue;
+	text-transform: uppercase;
+	word-spacing: 10px;
+	letter-spacing: 2px;
+}
+/*h1{
+	text-shadow: 1px 1px 1px blue;
+	text-transform: capitalize;
+}*/
+h2{
+	text-transform: capitalize;
+}
+#p2:first-letter{
+		font-size: 40px;
+		font-weight: bold;
+}
+a{
+	color: hotpink;
+}
+a:hover{
+	color: green;
+}
